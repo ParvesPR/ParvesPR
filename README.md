@@ -2,7 +2,7 @@
 
 ### Hi there 👋, my name is Parves
 #### I am Web Developer
-![I am Web Developer](https://ibb.co/MZyCG68)
+![I am Web Developer](https://media-exp2.licdn.com/dms/image/C4D16AQE1znm-yUU6Yg/profile-displaybackgroundimage-shrink_200_800/0/1654706974362?e=1661990400&v=beta&t=ys3OT6KIcF9rBTuUAKBpvkhIC-kjcbXl55_qOe65IuE)
 
 I'm a Front-end web developer.
 
