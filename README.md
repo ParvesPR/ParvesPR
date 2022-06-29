@@ -4,7 +4,7 @@
 ### Hi there 👋, my name is Parves
 #### I am Web Developer
 
-I'm a Front-end web developer.
+I'm a Front-end Reack.js developer.
 
 Skills: JavaScript / REACT / JS / HTML / CSS / Node.js / Express.js / MongoDB
 
