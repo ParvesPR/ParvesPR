@@ -68,4 +68,6 @@ I'm a Front-end Reack.js developer.
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ParvesPR)  
 
-![Profile views](https://gpvc.arturio.dev/ParvesPR)  
+<p align="center" dir="auto">
+  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/29f8103011a1755d67a8dd1a44807314ca7c7e052228479335240b6ac86a6a82/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f52617968616e3049736c616d30536861676f722f636f756e742e737667"><img align="center" alt="" width="40%" src="https://camo.githubusercontent.com/29f8103011a1755d67a8dd1a44807314ca7c7e052228479335240b6ac86a6a82/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f52617968616e3049736c616d30536861676f722f636f756e742e737667" data-canonical-src="https://profile-counter.glitch.me/Rayhan0Islam0Shagor/count.svg" style="max-width: 100%;"></a>
+</p> 
