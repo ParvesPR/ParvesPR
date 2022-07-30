@@ -25,6 +25,8 @@ I'm a Front-end Reack.js developer.
 
 </td><td valign="top" width="33%">
 
+<p align="center" dir="auto"><a href="https://www.linkedin.com/in/mirhussainmurtaza/" rel="nofollow"><img height="75" src="https://github.com/mir-hussain/mir-hussain/raw/main/images/icons/Linkedin.png" style="max-width: 100%;"></a><a href="https://www.facebook.com/mirhussainmurtaza" rel="nofollow"><img height="75" src="https://github.com/mir-hussain/mir-hussain/raw/main/images/icons/Facebook.png" style="max-width: 100%;"></a><a href="https://twitter.com/_mir_hussain_" rel="nofollow"><img height="75" src="https://github.com/mir-hussain/mir-hussain/raw/main/images/icons/Twitter.png" style="max-width: 100%;"> </a></p>
+
 
 
 ### Backend  
