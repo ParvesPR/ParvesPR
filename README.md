@@ -1,10 +1,9 @@
 
-![I am Web Developer](https://media-exp2.licdn.com/dms/image/C4D16AQE1znm-yUU6Yg/profile-displaybackgroundimage-shrink_200_800/0/1654706974362?e=1661990400&v=beta&t=ys3OT6KIcF9rBTuUAKBpvkhIC-kjcbXl55_qOe65IuE)
 
-### Hi there 👋, my name is Parves
+### Hi there 👋, I'm Parves
 #### I am Web Developer
 
-I'm a Front-end Reack.js developer.
+I'm a Front-end React.js developer.
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
