@@ -1,7 +1,7 @@
 
 
 ### Hi there 👋, I'm Parves
-#### I am Web Developer
+#### I am a Web Developer
 
 I'm a Front-end React.js developer.
 
