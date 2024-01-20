@@ -68,19 +68,15 @@ I'm a Front-end React.js developer.
 
 <p align="center" dir="auto"><a href="https://www.linkedin.com/in/imtiazul-haque/" rel="nofollow"><img height="75" src="https://github.com/mir-hussain/mir-hussain/raw/main/images/icons/Linkedin.png" style="max-width: 100%;"></a><a href="https://www.facebook.com/imtiazulhaque.parves" rel="nofollow"><img height="75" src="https://github.com/mir-hussain/mir-hussain/raw/main/images/icons/Facebook.png" style="max-width: 100%;"></a></p>
   
-
+# 📊 GitHub Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParvesPR)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParvesPR&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)  
 
-
-# 📊 GitHub Stats:
-  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/29f8103011a1755d67a8dd1a44807314ca7c7e052228479335240b6ac86a6a82/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f52617968616e3049736c616d30536861676f722f636f756e742e737667"><img align="center" alt="" width="40%" src="https://camo.githubusercontent.com/29f8103011a1755d67a8dd1a44807314ca7c7e052228479335240b6ac86a6a82/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f52617968616e3049736c616d30536861676f722f636f756e742e737667" data-canonical-src="https://profile-counter.glitch.me/Rayhan0Islam0Shagor/count.svg" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/29f8103011a1755d67a8dd1a44807314ca7c7e052228479335240b6ac86a6a82/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f52617968616e3049736c616d30536861676f722f636f756e742e737667"><img align="center" alt="" width="40%" src="https://camo.githubusercontent.com/29f8103011a1755d67a8dd1a44807314ca7c7e052228479335240b6ac86a6a82/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f52617968616e3049736c616d30536861676f722f636f756e742e737667" data-canonical-src="https://profile-counter.glitch.me/Rayhan0Islam0Shagor/count.svg" style="max-width: 100%;"></a>
 </p> 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parvespr&show_icons=true&locale=en&layout=compact" alt="parvespr" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parvespr&show_icons=true&locale=en" alt="parvespr" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parvespr&" alt="parvespr" /></p>
-
-[![](https://visitcount.itsvg.in/api?id=parvespr&icon=1&color=9)](https://visitcount.itsvg.in)
