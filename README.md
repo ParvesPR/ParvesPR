@@ -83,3 +83,14 @@ I'm a Front-end React.js developer.
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parvespr&show_icons=true&locale=en" alt="parvespr" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parvespr&" alt="parvespr" /></p>
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=parvespr&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=parvespr&theme=gruvbox&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=parvespr&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=parvespr&icon=1&color=9)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
